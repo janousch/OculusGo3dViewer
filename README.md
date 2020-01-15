@@ -1,5 +1,7 @@
 # Oculus Go Template [made by Ramón Janousch](https://www.ramonjanousch.com/)
 
+## About
+
 <img src="./Resources/OculusGo.png" align="right"
      title="Oculus Go" width="389" height="248">
 
@@ -33,3 +35,26 @@ This template will help you to build an Oculus Go app as quickly as possible.
 ### Unreal Engine 4 Oculus VR Application
 
 Suitable for Oculus Go and Oculus Quest.
+
+
+## Configuration Options
+
+
+## How to Contribute
+---
+
+1. Clone repo and create a new branch
+2. Make changes and test
+3. Submit Pull Request with comprehensive description of changes
+
+
+## Donations
+---
+
+This is free, open-source project. If you'd like to support the development of future projects, or say thanks for this one, you can donate BTC at `18zzhkgheRhxHCUbydeE9Dco8mJeEKfXrY`.
+
+
+## License
+
+The Oculus Go Template is licensed under the terms of the MIT
+license and is available for free.
