@@ -24,24 +24,28 @@ This template will help you to build an Oculus Go app as quickly as possible.
 
 ## How It Works
 
-1. Create a copy of this project <b>or</b> migrate the OculusGo folder into your project together with the source files and config files.
+1. Clone the repository
 2. Generate visual studio project files
 3. Compile the solution
+     3.1 Optional: Migrate the OculusGo folder into your project together with the source files and config files.
 4. Start the project, go inside the settings and change everything marked with "MUSTBECHANGED"
+https://www.youtube.com/watch?v=Lh4YZh2eN-A&feature=youtu.be
 
 
 ## Usage
 
 ### Unreal Engine 4 Oculus VR Application
-
 Suitable for Oculus Go and Oculus Quest.
 
 
 ## Configuration Options
 
+You can change the texture compression in the settings.
+<img src="./Resources/SettingsTextures.PNG" align="right"
+     title="Oculus Go" width="673" height="107">
+
 
 ## How to Contribute
----
 
 1. Clone repo and create a new branch
 2. Make changes and test
@@ -49,7 +53,6 @@ Suitable for Oculus Go and Oculus Quest.
 
 
 ## Donations
----
 
 This is free, open-source project. If you'd like to support the development of future projects, or say thanks for this one, you can donate BTC at `18zzhkgheRhxHCUbydeE9Dco8mJeEKfXrY`.
 
