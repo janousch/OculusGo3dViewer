@@ -29,7 +29,8 @@ This template will help you to build an Oculus Go app as quickly as possible.
 3. Compile the solution
      3.1 Optional: Migrate the OculusGo folder into your project together with the source files and config files.
 4. Start the project, go inside the settings and change everything marked with "MUSTBECHANGED"
-https://www.youtube.com/watch?v=Lh4YZh2eN-A&feature=youtu.be
+     
+[![Clone repo](./Resources/HowToClone.gif)](https://www.youtube.com/watch?v=Lh4YZh2eN-A&feature=youtu.be)
 
 
 ## Usage
@@ -41,8 +42,13 @@ Suitable for Oculus Go and Oculus Quest.
 ## Configuration Options
 
 You can change the texture compression in the settings.
-<img src="./Resources/SettingsTextures.PNG" align="right"
-     title="Oculus Go" width="673" height="107">
+<img src="./Resources/SettingsTextures.PNG" align="left"
+     title="Texture Settings" width="673" height="107">
+
+<br>
+<br>
+<br>
+<br>
 
 
 ## How to Contribute
