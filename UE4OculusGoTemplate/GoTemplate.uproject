@@ -2,7 +2,17 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "",
+	"Description": "Oculus Go Template made by Ramon Janousch",
+	"Modules": [
+		{
+			"Name": "GoTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
@@ -181,10 +191,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AISupport",
-			"Enabled": false
-		},
-		{
 			"Name": "ActorSequence",
 			"Enabled": false
 		},
@@ -207,6 +213,11 @@
 		{
 			"Name": "MobilePatchingUtils",
 			"Enabled": false
+		},
+		{
+			"Name": "NotYetContentBrowser",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fb71ac527bb644f4b0a125b01b96368d"
 		}
 	],
 	"TargetPlatforms": [
