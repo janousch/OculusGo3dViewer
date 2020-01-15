@@ -22,12 +22,12 @@ This template will help you to build an Oculus Go app as quickly as possible.
 * [Interrogation Room](https://www.youtube.com/watch?v=eVoooZVve9M&feature=youtu.be)
 
 
-## How It Works
+## [How It Works](https://www.youtube.com/watch?v=Lh4YZh2eN-A&feature=youtu.be)
 
 1. Clone the repository
 2. Generate visual studio project files
 3. Compile the solution
-     3.1 Optional: Migrate the OculusGo folder into your project together with the source files and config files.
+<br>     3.1 Optional: Migrate the OculusGo folder into your project together with the source files and config files.
 4. Start the project, go inside the settings and change everything marked with "MUSTBECHANGED"
      
 [![Clone repo](./Resources/HowToClone.gif)](https://www.youtube.com/watch?v=Lh4YZh2eN-A&feature=youtu.be)
