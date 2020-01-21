@@ -213,11 +213,6 @@
 		{
 			"Name": "MobilePatchingUtils",
 			"Enabled": false
-		},
-		{
-			"Name": "NotYetContentBrowser",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fb71ac527bb644f4b0a125b01b96368d"
 		}
 	],
 	"TargetPlatforms": [
