@@ -1,5 +1,7 @@
 # Oculus Go Template [made by Ramón Janousch](https://www.ramonjanousch.com/)
 
+## WARNING! This project doesn't work anymore since Mai/June 2020. It is recommended to use the latest version of Unreal Engine to build an Oculus Go App.
+
 ## About
 
 <img src="./Resources/OculusGo.png" align="right"
